@@ -1,1 +1,1 @@
-# euroins
+# Insurance company website
